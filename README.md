@@ -1,4 +1,3 @@
-mitgedanken-Core
+Core
 ===============
-
 Core for all projects.
